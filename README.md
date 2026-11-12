@@ -4,7 +4,7 @@ A C# console application built for my SDC320 Object-Oriented Programming course.
 
 ## Run the application
 
-Install the .NET 8 SDK, open a terminal in the folder containing `RolodexWeek1.csproj`, and run:
+Install the .NET 8 SDK, open a terminal in the folder containing `Rolodex.csproj`, and run:
 
 ```bash
 dotnet run
