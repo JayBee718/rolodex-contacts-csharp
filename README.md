@@ -23,5 +23,5 @@ Enter `1` to display the three sample contacts or `0` to exit.
 
 ## Planned features
 
-- Add, update, and remove contacts.
+- CRUD ops for contacts.
 - Filter contacts by the first letter of their last name.
