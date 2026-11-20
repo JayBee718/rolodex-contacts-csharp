@@ -1,7 +1,7 @@
 /*
  * Name: Jerald Bradley
- * Date: 11/12/2026
- * Assignment: SDC320L Project Week 1
+ * Date: 11/17/2026
+ * Assignment: SDC320 Project Week 2
  * Purpose: Defines the information shared by all contact types.
  */
 
@@ -24,6 +24,7 @@ public abstract class Contact
 
     public override string ToString()
     {
+        // Polymorphism: each derived contact supplies ContactType and ExtraInformation.
         return $"{FirstName} {LastName} ({ContactType})\n" +
                $"Phone: {Details.Phone}\nEmail: {Details.Email}\n{ExtraInformation}";
     }

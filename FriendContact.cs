@@ -1,7 +1,7 @@
 /*
  * Name: Jerald Bradley
- * Date: 11/12/2026
- * Assignment: SDC320L Project Week 1
+ * Date: 11/17/2026
+ * Assignment: SDC320 Project Week 2
  * Purpose: Represents a friend contact and stores the how we met detail.
  */
 
